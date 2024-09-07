@@ -1,0 +1,36 @@
+body {
+  font-size: 6em;
+  text-align: center;
+}
+
+#typeNumber, .count {
+  margin: 0;
+  font-weight: bold;
+  color: #888;
+}
+
+#typeNumber, #start {
+  display: block;
+  margin: 0;
+}
+
+#start {
+  margin: 0 auto;
+}
+
+.wrap {
+  margin-top: 20px;
+  padding: 80px 40px;
+  background: #666;
+  font-weight: bold;
+  color: #fff;
+}
+
+.typed {
+  color: lightgreen;
+}
+
+.mistyped {
+  background: red;
+}
+
